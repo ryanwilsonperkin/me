@@ -1,3 +1,2 @@
 pdf:
-	mkdir -p build
-	pandoc -H options.sty -o build/Resume.pdf Resume.md
+	pandoc -H options.sty -o Resume.pdf Resume.md
