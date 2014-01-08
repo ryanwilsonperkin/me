@@ -20,6 +20,16 @@ Proficiency
 
 Experience
 ----------
+### **Software Engineer** at *Google*
+January 2014 - April 2014
+
+### **Teaching Assistant** at *University of Guelph*
+September 2013 - December 2013
+
+* Instructed classes twice a week on Git, Raspbian, and C
+* Provided extra-help sessions for students struggling with DVCS
+* Monitor lectures and assist the professor in answering questions
+
 ### **Frontend/Backend Developer** at *Wave Accounting*
 April 2013 - August 2013
 
