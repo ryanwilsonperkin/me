@@ -9,38 +9,44 @@ About Me
 --------
 I'm a school and self taught programmer with a strong interest in security, HCI, and open source.
 
-My latest project is helping to lead a group that teaches best practices to university students.
-
-When away from keyboard I'm longboarding, tinkering, and reading.
+My latest project is running the University of Guelph's computer science society.
 
 Proficiency
 -----------
-* **Python** including *Django*
-* **CSS & LESS**
-* **(Java|Coffee)Script** including *Mustache, Backbone and jQuery*
-* **C/C++**
-* **Java**
-* **System Administration**
+* Python
+* HTML/CSS/JS
+* C/C++
+* System Administration
 
 Experience
 ----------
-### **Software Engineer** at *Thalmic Labs*
-May 2014 - August 2014
-
-### **Software Engineer** at *Google*
-January 2014 - April 2014
-
 ### **Teaching Assistant** at *University of Guelph*
+September 2014 - December 2014
 September 2013 - December 2013
+January 2012 - April 2012
 
 * Instructed classes twice a week on Git, Raspbian, and C
 * Provided extra-help sessions for students struggling with DVCS
 * Monitor lectures and assist the professor in answering questions
 
+### **Software Engineer** at *Thalmic Labs*
+May 2014 - August 2014
+
+* Used the iOS Core Bluetooth framework to simulate interaction with a Myo
+* Developed an application for converting accelerometer and gyrometer data into MIDI events
+* Translated machine learning algorithms from Matlab to firmware code
+
+### **Software Engineer** at *Google*
+January 2014 - April 2014
+
+* Worked with the Ads anti-malware team to detect and delete malware
+* Created data visualization tools to better display incoming information
+* Designed and developed parallel pipelines for data transformation
+
 ### **Frontend/Backend Developer** at *Wave Accounting*
 April 2013 - August 2013
 
-* Created and demoed an open source API in Python for interacting with a SaaS targeted email provider
+* Created an open source API in Python for interacting with a SaaS targeted email provider
 * Re-designed responsive views using Bootstrap and Backbone Forms
 * Implemented event tracking via RESTful calls to multiple analytics providers
 
@@ -53,8 +59,7 @@ May 2012 - December 2012
 
 Education and Awards
 --------------------
-* University of Guelph, B. Computer Science w/ Honours Coop [4th year]
-* University of Guelph Dean's Honours List
+* University of Guelph, B. Computer Science w/ Honours Coop [5th year]
 * Top 25% Canada Computing Contest by University of Waterloo
 
 Volunteering and Causes
