@@ -21,12 +21,13 @@ Proficiency
 Experience
 ----------
 ### **Teaching Assistant** at *University of Guelph*
+January 2014 - April 2014
 September 2014 - December 2014
 September 2013 - December 2013
 January 2012 - April 2012
 
-* Instructed classes twice a week on Git, Raspbian, and C
-* Provided extra-help sessions for students struggling with DVCS
+* Instructed classes twice a week on Git, Linux, and C
+* Provided extra-help sessions for students
 * Monitor lectures and assist the professor in answering questions
 
 ### **Software Engineer** at *Thalmic Labs*
