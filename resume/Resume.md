@@ -3,7 +3,7 @@ Ryan Wilson-Perkin
 
 * Email: ryanwilsonperkin@gmail.com
 * Github: [ryanwilsonperkin](https://github.com/ryanwilsonperkin)
-* Twitter: [psychboo](http://twitter.com/psychboo)
+* Twitter: [\@rwilsonperkin](http://twitter.com/rwilsonperkin)
 
 About Me
 --------
