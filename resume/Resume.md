@@ -18,6 +18,9 @@ Proficiency
 
 Experience
 ----------
+### **Software Developer** at *Wave Accounting*
+May 2015 - Present
+
 ### **Teaching Assistant** at *University of Guelph*
 January 2014 - April 2014  
 September 2014 - December 2014  
