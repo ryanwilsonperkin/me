@@ -58,7 +58,7 @@ May 2012 - December 2012
 
 Education and Awards
 --------------------
-* University of Guelph, B. Computer Science w/ Honours Coop [5th year]
+* University of Guelph, B. Computer Science w/ Honours Coop
 * Top 25% Canada Computing Contest by University of Waterloo
 
 Volunteering and Causes
