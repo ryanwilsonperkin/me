@@ -9,8 +9,6 @@ About Me
 --------
 I'm a school and self taught programmer with a strong interest in security, HCI, and open source.
 
-My latest project is running the University of Guelph's computer science society.
-
 Proficiency
 -----------
 * Python
